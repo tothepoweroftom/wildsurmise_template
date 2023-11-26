@@ -10,3 +10,6 @@
 	path = cmake
 	url = git@github.com:sudara/cmake-includes.git
 	branch = main
+[submodule "modules/choc"]
+	path = modules/choc
+	url = git@github.com:Tracktion/choc.git
